@@ -4,7 +4,9 @@ function App() {
 
   return (
     <>
-      <h1>Testing the React behavior inside Shopify.</h1>
+      <h1>Testing the React behavior inside Shopify. <br></br>
+      After changing the config file.
+      </h1>
     </>
   )
 }
